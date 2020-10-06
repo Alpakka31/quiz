@@ -38,10 +38,10 @@ void runQuiz(void) {
     };
     struct Question q4 = {
         .question = "What's the computer bus called in Finnish?",
-        .answer = "väylä"
+        .answer = "tietokoneväylä"
     };
     struct Question q5 = {
-        .question = "What was the model of the first computer?",
+        .question = "What was the brand of the first PC computer?",
         .answer = "ibm"
     };
     struct Question q6 = {
